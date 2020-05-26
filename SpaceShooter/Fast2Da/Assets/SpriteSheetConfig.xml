@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<spritesheets>
+  <spritesheet>
+    <name>zombie</name>
+    <filename>Assets/ZombieSpriteSheet.png</filename>
+    <frame>
+      <width>40</width>
+      <height>40</height>
+    </frame>
+    <animations>
+      <animation>
+        <loop>true</loop>
+        <fps>1</fps>
+        <rows>1</rows>
+        <cols>3</cols>
+        <startX>0</startX>
+        <startY>0</startY>
+      </animation>
+      <animation>
+        <loop>true</loop>
+        <fps>1</fps>
+        <rows>1</rows>
+        <cols>3</cols>
+        <startX>0</startX>
+        <startY>40</startY>
+      </animation>
+    </animations>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>player</name>
+    <filename>Assets/player_ship.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>bg</name>
+    <filename>Assets/spaceBg.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>bullets</name>
+    <filename>Assets/beams.png</filename>
+    <frame>
+      <width>28</width>
+      <height>15</height>
+    </frame>
+    <animations>
+      <animation>
+        <loop>true</loop>
+        <fps>1</fps>
+        <rows>1</rows>
+        <cols>1</cols>
+        <startX>247</startX>
+        <startY>38</startY>
+      </animation>
+    </animations>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>enemy</name>
+    <filename>Assets/enemy_ship.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>enemy2</name>
+    <filename>Assets/redEnemy_ship.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>fireGlobe</name>
+    <filename>Assets/fireGlobe.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+
+  <spritesheet>
+    <name>blueLaser</name>
+    <filename>Assets/blueLaser.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>playerBar</name>
+    <filename>Assets/loadingBar_bar.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+
+  <spritesheet>
+    <name>barFrame</name>
+    <filename>Assets/loadingBar_frame.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+  
+  <spritesheet>
+    <name>powerUp_Nrg</name>
+    <filename>Assets/powerUp_battery.png</filename>
+    <frame/>
+    <animations/>
+  </spritesheet>
+</spritesheets>

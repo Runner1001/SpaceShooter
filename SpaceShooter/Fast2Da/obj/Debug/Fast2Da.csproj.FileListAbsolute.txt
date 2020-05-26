@@ -1,0 +1,187 @@
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Assets\ball.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Assets\magic_ball.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Assets\speed_ball.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Fast2Da.exe.config
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Fast2Da.exe
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Fast2Da.pdb
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\aiv-fast2d.dll
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\OpenTK.dll
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\OpenTK.xml
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\obj\Debug\Fast2Da.exe
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\obj\Debug\Fast2Da.pdb
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Assets\game-background.jpg
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Assets\Wonder_Boy.png
+C:\Users\chiro\OneDrive\documenti\visual studio 2017\Projects\Fast2Da\Fast2Da\bin\Debug\Assets\cloud.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\obj\Debug\Fast2Da.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Assets\playerShip.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceB\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Assets\playerShip.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\obj\Debug\Fast2Da.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\SpaceShooter_playerBullets\Fast2Da\bin\Debug\Assets\enemy2.png
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\obj\Debug\Fast2Da.pdb
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Assets\enemy2.png
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Assets\playerShip.png
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\obj\Debug\Fast2Da.csproj.CoreCompileInputs.cache
+C:\Users\luca2\Desktop\SpaceShooter\Fast2Da\bin\Debug\Assets\fireGlobe.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\beams.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\enemy.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\fireGlobe.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\spaceBg.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Fast2Da.exe.config
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Fast2Da.exe
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Fast2Da.pdb
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\aiv-fast2d.dll
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\OpenTK.dll
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\OpenTK.xml
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\obj\Debug\Fast2Da.csproj.CoreCompileInputs.cache
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\obj\Debug\Fast2Da.exe
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\obj\Debug\Fast2Da.pdb
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\blueLaser.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\loadingBar_bar.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\loadingBar_frame.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\powerUp_battery.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\enemy_ship.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\player_ship.png
+D:\progetti\Visual Studio 2017\SpaceShooterCollisions\Fast2Da\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\powerUp_battery.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\chiro\OneDrive\Documenti\visual studio 2017\Projects\SpaceShooterBoxCollisions\Fast2Da\obj\Debug\Fast2Da.pdb
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\powerUp_battery.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\chiro\Desktop\tmp\_SpaceShooterBoxCollisions\Fast2Da\obj\Debug\Fast2Da.pdb
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\blueLaser.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\enemy_ship.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\fireGlobe.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\player_ship.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\powerUp_battery.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\obj\Debug\Fast2Da.pdb
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\SpriteSheetConfig.xml
+C:\Users\franc\Downloads\SpaceShooterBoxCollisionsPowerUpC\Fast2Da\bin\Debug\Assets\ZombieSpriteSheet.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\beams.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\blueLaser.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\enemy.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\enemy_ship.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\fireGlobe.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\player_ship.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\powerUp_battery.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\spaceBg.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\SpriteSheetConfig.xml
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Assets\ZombieSpriteSheet.png
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Fast2Da.exe.config
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Fast2Da.exe
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\Fast2Da.pdb
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\aiv-fast2d.dll
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\OpenTK.dll
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\bin\Debug\OpenTK.xml
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\obj\Debug\Fast2Da.csprojResolveAssemblyReference.cache
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\obj\Debug\Fast2Da.exe
+C:\Users\franc\Downloads\SpaceShooterAnimationsA\Fast2Da\obj\Debug\Fast2Da.pdb
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\beams.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\blueLaser.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\enemy.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\enemy_ship.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\fireGlobe.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\loadingBar_bar.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\loadingBar_frame.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\player_ship.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\powerUp_battery.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\redEnemy_ship.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\spaceBg.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\SpriteSheetConfig.xml
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Assets\ZombieSpriteSheet.png
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Fast2Da.exe.config
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Fast2Da.exe
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\Fast2Da.pdb
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\aiv-fast2d.dll
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\OpenTK.dll
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\bin\Debug\OpenTK.xml
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\obj\Debug\Fast2Da.csprojAssemblyReference.cache
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\obj\Debug\Fast2Da.csproj.CoreCompileInputs.cache
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\obj\Debug\Fast2Da.csproj.CopyComplete
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\obj\Debug\Fast2Da.exe
+F:\Dati\AIV Primo Anno\BACKUP TOTALE\repos\SpaceShooterAnimationsA  16-02-2018\Fast2Da\obj\Debug\Fast2Da.pdb
